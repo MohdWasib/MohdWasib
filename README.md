@@ -6,8 +6,8 @@
 
 ### 🌐 Connect with me:
 
-- LinkedIn [[Your LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohd-wasib/))
-- GitHub: [Your GitHub](https://github.com/your-profile)
+- LinkedIn: [Mohd Wasib](https://www.linkedin.com/in/mohd-wasib/)
+- GitHub: [https://github.com/MohdWasib]
 
 ---
 
@@ -70,4 +70,3 @@
 I’m a dedicated Software Engineer specializing in backend development, with a love for learning new technologies and building scalable, high-performance applications. Always eager to tackle new challenges and continuously improve my skills.
 
 ---
-
