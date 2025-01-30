@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mohd Wasib  
-### A passionate Software Developer from [Your Location] 🌍
+### A passionate Software Developer from Dubai (UAE) 🌍
 
 [![GitHub Followers](https://img.shields.io/github/followers/MohdWasib?style=social)](https://github.com/MohdWasib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/[Your-LinkedIn-Username]) <!-- Add your LinkedIn -->
@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Let's Connect  
-- 💼 LinkedIn: [Add your LinkedIn profile](https://linkedin.com/in/[YourUsername])  
-- ✉️ Email: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [Add your LinkedIn profile]((https://www.linkedin.com/in/mohd-wasib/))  
+- ✉️ Email: [youremail@example.com](mailto:mohdwasib11@gmail.com)  
 - 🌐 GitHub: [MohdWasib](https://github.com/MohdWasib)
 
 ---
