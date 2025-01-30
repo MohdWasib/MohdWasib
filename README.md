@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Let's Connect  
-- 💼 LinkedIn: [Add your LinkedIn profile]((https://www.linkedin.com/in/mohd-wasib/))  
-- ✉️ Email: [youremail@example.com](mailto:mohdwasib11@gmail.com)  
+- 💼 LinkedIn: [((https://www.linkedin.com/in/mohd-wasib/)]
+- ✉️ Email: [mohdwasib11@gmail.com)]
 - 🌐 GitHub: [MohdWasib](https://github.com/MohdWasib)
 
 ---
