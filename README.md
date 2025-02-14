@@ -30,15 +30,15 @@
 ---
 
 ## 🚀 Featured Projects  
-### 1. [Project Title](https://github.com/MohdWasib/[Repo-Name])
+### 1. [Chat-App](https://github.com/MohdWasib/[Repo-Name])
 📌 **Description**: A brief description of your project (e.g., "E-commerce platform built with React & Node.js").  
 🔧 **Tech**: ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
 
-### 2. [Project Title](https://github.com/MohdWasib/[Repo-Name])
+### 2. [Weather App(https://github.com/MohdWasib/[Repo-Name])
 📌 **Description**: Example: "AI chatbot using Python and NLP libraries."  
 🔧 **Tech**: ![Python](https://img.shields.io/badge/-Python-3776AB) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00)
 
-### 3. [Project Title](https://github.com/MohdWasib/[Repo-Name])
+### 3. [Bankist-Website](https://github.com/MohdWasib/[Repo-Name])
 📌 **Description**: Example: "Weather app with real-time API integration."  
 🔧 **Tech**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![API](https://img.shields.io/badge/-API-FF6F00)
 
